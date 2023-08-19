@@ -10,13 +10,9 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, NextJS, NestJS, Tensorflow, Natural Language Processing (NLP)**
 
-- 👨‍💻 All of my projects are available at [https://subigyasubedi.dev/](https://subigyasubedi.dev/)
-
 - 💬 Ask me about **ReactJS, JavaScript, NodeJS, Web Development**
 
 - 📫 How to reach me **21btrcc045@jainuniversity.ac.in**
-
-- 📄 Know about my experiences [https://subigyasubedi.dev/pdf/Resume-%20SUBIGYA%20SUBEDI.pdf](https://subigyasubedi.dev/pdf/Resume-%20SUBIGYA%20SUBEDI.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
