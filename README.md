@@ -4,8 +4,6 @@
 
 <img src = "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" align = "right" alt="Coding" width="400"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subigya-js&label=Profile%20views&color=0e75b6&style=flat" alt="subigya-js" /> </p>
-
 <p align="left"> <a href="https://twitter.com/subigya_js" target="blank"><img src="https://img.shields.io/twitter/follow/subigya_js?logo=twitter&style=for-the-badge" alt="subigya_js" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, NextJS, NestJS, Tensorflow, Natural Language Processing (NLP)**
