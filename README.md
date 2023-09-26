@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ReactJS, JavaScript, NodeJS, Web Development**
 
-- 📫 How to reach me **developer.subigya@protonmail.com**
+- 📫 How to reach me **subigya.developer@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
