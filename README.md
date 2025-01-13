@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/subigya_js" target="blank"><img src="https://img.shields.io/twitter/follow/subigya_js?logo=twitter&style=for-the-badge" alt="subigya_js" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, NextJS, NestJS, Tensorflow, Natural Language Processing (NLP)**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, NextJS, Tensorflow, Data Engineering**
 
-- 💬 Ask me about **ReactJS, JavaScript, NodeJS, Web Development**
+- 💬 Ask me about **ReactJS, JavaScript, NextJS, NodeJS, Web Development**
 
-- 📫 How to reach me **subigya.developer@protonmail.com**
+- 📫 How to reach me **developer.subigya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
